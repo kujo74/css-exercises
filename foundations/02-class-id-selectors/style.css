@@ -1,0 +1,19 @@
+
+p{
+    background-color: rgb(232, 62, 85);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.med{
+    font-size: 24px;
+}
+
+.big{
+    color:rgb(49, 49, 121);
+    font-size: 36px;
+}
+
+.blod {
+    background-color:rgb(86, 215, 86);
+    font-weight: bold;
+}
